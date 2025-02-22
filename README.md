@@ -7,6 +7,12 @@ Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut terinstal:
 - [Unity Hub](https://unity.com/download)
 - [Visual Studio](https://visualstudio.microsoft.com/) 
 - [Asset Store Meta XR All-In-One SDK](https://assetstore.unity.com/search#q=meta%20xr%20all-in-one%20sdk)
+- [Meta Developer Documentation ](https://developer.oculus.com/document...)
+- [Meta Glossary](https://developer.oculus.com/document...)
+- [Meta XR SDKs](https://developer.oculus.com/document...)
+- [Oculus Link Setup](https://www.meta.com/help/quest/artic...)
+- [Unity Download](https://unity.com/download)
+
 
 ## Langkah 1: Membuat Proyek Baru ( menggunakan Unity version 6000.0.38f1)
 
@@ -55,5 +61,4 @@ Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut terinstal:
 -   Grab Interaction
 
 ![Grab Interaction](img/image9.png)
-
 
