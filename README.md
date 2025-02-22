@@ -26,24 +26,10 @@ Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut terinstal:
 
 1. Pastikan Anda memiliki Meta XR Tools di Unity dan tidak berindikator merah
 ![Install Meta SDK](img/image2.png)
-2. Klik `Window` > `Meta XR Tools
-1. Klik kanan pada folder `Assets` dan pilih `Create > C# Script`.
-2. Beri nama skrip Anda, misalnya `PlayerController`.
-3. Buka skrip di Visual Studio dan tambahkan kode berikut:
+2. Jika ada indikator merah, klik `Fix`
+![Install Meta SDK](img/image3.png)
 
-   ```csharp
-   using UnityEngine;
+## Langkah 4: Setting Scene
 
-   public class PlayerController : MonoBehaviour
-   {
-       public float speed = 5f;
-
-       void Update()
-       {
-           float moveHorizontal = Input.GetAxis("Horizontal");
-           float moveVertical = Input.GetAxis("Vertical");
-
-           Vector2 movement = new Vector2(moveHorizontal, moveVertical);
-           transform.Translate(movement * speed * Time.deltaTime);
-       }
-   }
+1. Klik `Window` > `Meta XR Tools` > `Scene Setup`.
+2. Klik `Create Scene`.
