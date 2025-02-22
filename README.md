@@ -32,17 +32,28 @@ Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut terinstal:
 ## Langkah 4: Tambahkan beberapa Building blocks
 
 1. Klik `Meta` > `Building Blocks`.
+
 ![building blocks](img/image4.png)
+
 2. Klik beberapa building blocks yang akan tambahkan ke scene.
 -   camera rig
+
 ![camera rig](img/image5.png)
+
 -   controller tracking
+
 ![controller tracking](img/image6.png)
+
 -   hand tracking
+
 ![hand tracking](img/image7.png)
+
 -   Virtual Hands
+
 ![Virtual Hands](img/image8.png)
+
 -   Grab Interaction
+
 ![Grab Interaction](img/image9.png)
 
 
