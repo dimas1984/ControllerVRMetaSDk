@@ -1,0 +1,2 @@
+C:\Ocullus\VirtualReality\MetaSDK\MetaSDK-1\MetaSDK-Controller\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Ocullus\VirtualReality\MetaSDK\MetaSDK-1\MetaSDK-Controller\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

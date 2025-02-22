@@ -1,0 +1,5 @@
+C:/Ocullus/VirtualReality/MetaSDK/MetaSDK-1/MetaSDK-Controller/.utmp/RelWithDebInfo/3gq25413/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Ocullus/VirtualReality/MetaSDK/MetaSDK-1/MetaSDK-Controller/.utmp/RelWithDebInfo/3gq25413/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Ocullus/VirtualReality/MetaSDK/MetaSDK-1/MetaSDK-Controller/.utmp/RelWithDebInfo/3gq25413/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Ocullus/VirtualReality/MetaSDK/MetaSDK-1/MetaSDK-Controller/.utmp/RelWithDebInfo/3gq25413/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Ocullus/VirtualReality/MetaSDK/MetaSDK-1/MetaSDK-Controller/.utmp/RelWithDebInfo/3gq25413/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
