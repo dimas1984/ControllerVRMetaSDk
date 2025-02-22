@@ -22,8 +22,11 @@ Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut terinstal:
 3. Klik `Install`.
 ![Install Meta SDK](img/image1.png)
 
-## Langkah 3: Menambahkan Skrip
+## Langkah 3: Meta XR Tools
 
+1. Pastikan Anda memiliki Meta XR Tools di Unity dan tidak berindikator merah
+![Install Meta SDK](img/image2.png)
+2. Klik `Window` > `Meta XR Tools
 1. Klik kanan pada folder `Assets` dan pilih `Create > C# Script`.
 2. Beri nama skrip Anda, misalnya `PlayerController`.
 3. Buka skrip di Visual Studio dan tambahkan kode berikut:
