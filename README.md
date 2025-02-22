@@ -1,4 +1,4 @@
-# Tutorial Setting Controller VR menggunakan Meta SDK
+# Tutorial Setting Controller dan Hand Tracking VR menggunakan Meta SDK
 
 ## Prerequisites
 
