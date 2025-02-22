@@ -20,7 +20,7 @@ Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut terinstal:
 1. menu `Window` > `Package Manager`.
 2. Pilih `Meta XR All-In-One SDK` > `Install`.
 3. Klik `Install`.
-![Install Meta SDK](imgimage1.png)
+![Install Meta SDK](img/image1.png)
 
 ## Langkah 3: Menambahkan Skrip
 
