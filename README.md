@@ -25,11 +25,24 @@ Sebelum memulai, pastikan Anda memiliki perangkat lunak berikut terinstal:
 ## Langkah 3: Meta XR Tools
 
 1. Pastikan Anda memiliki Meta XR Tools di Unity dan tidak berindikator merah
-![Install Meta SDK](img/image2.png)
-2. Jika ada indikator merah, klik `Fix`
-![Install Meta SDK](img/image3.png)
+![Meta XR Tools](img/image2.png)
+2. Jika ada indikator merah, klik `Fix` atau `Apply All`
+![fix meta xr tools](img/image3.png)
 
-## Langkah 4: Setting Scene
+## Langkah 4: Tambahkan beberapa Building blocks
 
-1. Klik `Window` > `Meta XR Tools` > `Scene Setup`.
-2. Klik `Create Scene`.
+1. Klik `Meta` > `Building Blocks`.
+![building blocks](img/image4.png)
+2. Klik beberapa building blocks yang akan tambahkan ke scene.
+-   camera rig
+![camera rig](img/image5.png)
+-   controller tracking
+![controller tracking](img/image6.png)
+-   hand tracking
+![hand tracking](img/image7.png)
+-   Virtual Hands
+![Virtual Hands](img/image8.png)
+-   Grab Interaction
+![Grab Interaction](img/image9.png)
+
+
